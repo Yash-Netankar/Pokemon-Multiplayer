@@ -1,0 +1,17 @@
+{
+  "name": "pokemon-game",
+  "version": "1.0.0",
+  "description": "this is multiplayer pokemon game",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yash-netankar",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "socket.io": "^3.1.2"
+  }
+}
